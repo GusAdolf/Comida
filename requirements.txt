@@ -1,2 +1,10 @@
-ocr-nanonets-wrapper
-scikit-learn
+INSTALAR LAS SIGUIENTES LIBRERIAS  CON EL COMANDO PIP DESDE CONSOLA 
+pip install flask
+pip install keras
+pip install tensorflow
+pip install  opencv-python
+pip install matplotlib
+pip install os
+pip install numpy
+
+PARA EJECUTAR ESCRIBIR EN LA CONSOLA PYTHON FRONT.PY
